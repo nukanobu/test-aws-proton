@@ -1,1 +1,3 @@
-# test-aws-proton
+# Expected output
+
+![image](./image.png)
